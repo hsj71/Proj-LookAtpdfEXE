@@ -27,7 +27,7 @@ Built using **Python**, **Tkinter**, and packaged as a `.exe` for Windows.
 
 <h3>1. Saved Images</h3>
 <p align="center">
-  <img src="https://github.com/hsj71/LookAtPDF/raw/main/Images/Screenshot%20(591).png" alt="Saved Images" width="700"/>
+  <img src="Images/Screenshot%20(591).png" alt="Saved Images" width="700"/>
 </p>
 <h3>2. Open LookAtPDF.exe</h3>
 <p align="center">
